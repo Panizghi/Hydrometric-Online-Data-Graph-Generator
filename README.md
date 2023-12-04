@@ -2,8 +2,6 @@
 Developed a Hydrometric graph generator by using JAVFAX through an automated system of accessing live online data to control the water depth in rivers and lakes for flood prevention.
 The information allows informs us about how water flows in and around first nations, cities, towns and rural areas so that we can make engineering and public policy decisions, like where to build dams, as well as how we should attempt to control water flow in our lakes and rivers.
 
-#### This project involves the analysis of hydrometric data, focusing on an automated system for accessing live online data to control water depth in rivers and lakes. It includes two Java classes, StationDataProvider and StationAnalyzer, along with a MATLAB script for visualizing water level data. 
-
 ## Java Classes
 ### 1. StationDataProvider
 #### Purpose:
